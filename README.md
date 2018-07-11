@@ -1,5 +1,5 @@
 # wangpq-mobile-web-develop-tools
-> 移动web开发中常用工具包
+> 移动web开发中常用JS工具包
 
 **iscroll.js**
 
