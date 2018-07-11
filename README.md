@@ -41,6 +41,22 @@ Swipe github地址2 ：https://github.com/bradbirdsall/Swipe
 
 一个轻量级的左右滑动插件
   
-SwipeView官网 ：  http://cubiq.org/swipeview
+SwipeView官网地址 ：  http://cubiq.org/swipeview
   
+  
+**部分网站使用示例：**
+
+新浪   http://sina.cn/     
+使用了Zepto.js 和 iscroll.js
+
+乐视   http://m.letv.com/  
+使用了focusimg.js(自己弄的) 
+
+优酷  http://tv.youku.com/
+使用jquery.js、iscroll.js
+ 
+爱奇艺 http://m.iqiyi.com/   
+使用seajs
+
+PPTV http://m.pptv.com/   
 
